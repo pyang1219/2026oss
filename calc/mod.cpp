@@ -1,6 +1,6 @@
-#include "mod.h"
+#include <iostream>
 
 int mod(int x, int y)
 {
-	return 0;
+	return (x % y);
 }
